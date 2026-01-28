@@ -2,13 +2,12 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<img height="0em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioKassamatsu&langs_count=8&theme=dark"/>
           
-          
-  
 <div>
   <a href="https://github.com/CassioKassamatsu">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassioKassamatsu&show_icons=true&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioKassamatsu&langs_count=8&theme=dark"/>
   </a>
 </div>
 <div>
