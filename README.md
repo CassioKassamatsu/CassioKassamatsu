@@ -1,10 +1,3 @@
-<img height="0em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioKassamatsu&langs_count=8&theme=dark"/>
-          
-<div>
-  <a href="https://github.com/CassioKassamatsu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CassioKassamatsu&show_icons=true&theme=dark"/>
-  </a>
-</div>
 <div>
   <h2>Estou estudando:</h2>
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
