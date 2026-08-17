@@ -5,7 +5,7 @@ Comecei em TI consertando e mantendo equipamentos de hospital como Jovem Aprendi
 
 Minha ferramenta principal é o N8N, onde aplico JavaScript direto nos fluxos para lógica mais complexa. Estou expandindo isso com PostgreSQL e infraestrutura de servidores, e sigo estudando Python por conta própria, sem que ninguém peça.
 
-Meu projeto principal hoje é um sistema de redução de faltas (no-show) para clínicas via WhatsApp — do desenho do banco de dados até a lógica de lembretes automáticos. Documentado nos repositórios abaixo, incluindo as decisões de arquitetura, não só o resultado final.
+Meu projeto principal hoje é um sistema de redução de faltas (no-show) para clínicas via WhatsApp, com desenho do banco de dados até a lógica de lembretes automáticos. Documentado nos repositórios abaixo, incluindo as decisões de arquitetura, não só o resultado final.
 
 <br>
 
