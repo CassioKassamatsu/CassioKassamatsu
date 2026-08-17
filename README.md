@@ -7,7 +7,7 @@ Minha ferramenta principal é o N8N, onde aplico JavaScript direto nos fluxos pa
 
 Meu projeto principal hoje é um sistema de redução de faltas (no-show) para clínicas via WhatsApp — do desenho do banco de dados até a lógica de lembretes automáticos. Documentado nos repositórios abaixo, incluindo as decisões de arquitetura, não só o resultado final.
 
-<br><br><br>
+<br><br>
 
 <p align="left"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </p>
 
