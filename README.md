@@ -1,4 +1,4 @@
-<h1 align="center">Cássio Lopes</h1> <h3 align="center">Assistente de TI | Automação com N8N | Estudante de ADS</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Automatizando+processos+com+N8N;Construindo+sistemas+que+eliminam+trabalho+manual;JavaScript+aplicado+a+fluxos+reais;Sempre+aprendendo+algo+novo" alt="Typing SVG" /> </p>
+<h1 align="center">Cássio Kassamatsu</h1> <h3 align="center">Assistente de TI | Automação com N8N | Estudante de ADS</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=2EA043&center=true&vCenter=true&width=520&lines=Automatizando+processos+com+N8N;Construindo+sistemas+que+eliminam+trabalho+manual;JavaScript+aplicado+a+fluxos+reais;Sempre+aprendendo+algo+novo" alt="Typing SVG" /> </p>
 
 <h1> Sobre </h1>
 Comecei em TI consertando e mantendo equipamentos de hospital como Jovem Aprendiz. Hoje construo os sistemas que automatizam o trabalho manual de uma operação inteira.
